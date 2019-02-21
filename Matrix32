@@ -1,0 +1,1 @@
+//if (k> n / 2 - 1||k>= n - i) printf("%5i", A[k][i])
